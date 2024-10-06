@@ -2,7 +2,7 @@
 
 ## Biography
 
-Hey there! I am Nitesh Gautam. I am a Bachelor's student at the [Lappeenranta-Lahti University of Technology](https://www.lut.fi/en). I have received my High School Diploma in [Computer Science](https://moecdc.gov.np/storage/gallery/1694337718.pdf) from [Kathmandu Model College](https://ktmmodelcollege.edu.np/) and my Primary Studies from [Mount Makalu School](https://www.facebook.com/p/Mt-Makalu-Residential-Secondary-School-100064056280969/).
+Hey there! I am Nitesh Gautam. I am a Bachelor's student at the [Lappeenranta-Lahti University of Technology](https://www.lut.fi/en). I have received my High School Diploma in [Computer Science](https://moecdc.gov.np/storage/gallery/1694337718.pdf) from [Kathmandu Model College](https://ktmmodelcollege.edu.np/) and completed my Primary Studies from [Mount Makalu School](https://www.facebook.com/p/Mt-Makalu-Residential-Secondary-School-100064056280969/).
 
 I like web development and building cloud automation systems and softwares.
 
