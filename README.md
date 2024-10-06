@@ -12,7 +12,6 @@ I like web development and building cloud automation systems and softwares.
 Contact me by:
 
 - Email: [gautamnitesh960@gmail.com](mailto:gautamnitesh960@gmail.com)
-- Github (Unmaintained): [@Kyouma960](https://github.com/Kyouma96
 - Personal Website: [gautamnitesh.me](https://gautamnitesh.me)
 - Facebook: [Nitesh Gautam](https://me-qr.com/2BKU4UiR)
 - WhatsApp: [0449258653](https://wa.me/qr/D4BNRHF6LCWVN1)
