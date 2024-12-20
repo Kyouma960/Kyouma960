@@ -20,4 +20,4 @@ Contact me by:
 
 ## Résumé
 
-- [English](https://short-link.me/KMdR)
+- [English]()
